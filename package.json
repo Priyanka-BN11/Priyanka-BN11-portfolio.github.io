@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  },
+  "name": "portfolio-assignment",
+  "version": "1.0.0",
+  "description": "Priyanka's portfolio",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanka-BN11/Portfolio-assignment.git"
+  },
+  "author": "Priyanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyanka-BN11/Portfolio-assignment/issues"
+  },
+  "homepage": "https://github.com/Priyanka-BN11/Portfolio-assignment#readme"
+}
